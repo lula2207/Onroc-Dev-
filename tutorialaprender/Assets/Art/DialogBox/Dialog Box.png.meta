@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 74038adb5e814a54489e004f2c943c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6734535964348205699
+    second: Dialog Box_0
+  - first:
+      213: 6328988739370822019
+    second: Dialog Box_1
+  - first:
+      213: 8119272171300924294
+    second: Dialog Box_2
+  - first:
+      213: 2075236257614101427
+    second: Dialog Box_3
+  - first:
+      213: 1598263312506885978
+    second: Dialog Box_4
+  - first:
+      213: 6037688602242185719
+    second: Dialog Box_5
+  - first:
+      213: 9065810703493475253
+    second: Dialog Box_6
+  - first:
+      213: -1051249100577501006
+    second: Dialog Box_7
+  - first:
+      213: 1655331736205254551
+    second: Dialog Box_8
+  - first:
+      213: 2749581384367332073
+    second: Dialog Box_9
+  - first:
+      213: 7104175021219032604
+    second: Dialog Box_10
+  - first:
+      213: -2626894542653835587
+    second: Dialog Box_11
+  - first:
+      213: -7647865805504614120
+    second: Dialog Box_12
+  - first:
+      213: 6024235695638290115
+    second: Dialog Box_13
+  - first:
+      213: -8443285669673821492
+    second: Dialog Box_14
+  - first:
+      213: -4454028700861249096
+    second: Dialog Box_15
+  - first:
+      213: -4107397172060227714
+    second: Dialog Box_16
+  - first:
+      213: 6349146542637582328
+    second: Dialog Box_17
+  - first:
+      213: 3271365871870509553
+    second: Dialog Box_18
+  - first:
+      213: -1046722596002334551
+    second: Dialog Box_19
+  - first:
+      213: 4728372258101281891
+    second: Dialog Box_20
+  - first:
+      213: 8558232640919587919
+    second: Dialog Box_21
+  - first:
+      213: 1111604924110714690
+    second: Dialog Box_22
+  - first:
+      213: 1986834959073408074
+    second: Dialog Box_23
+  - first:
+      213: 1838786465944505351
+    second: Dialog Box_24
+  - first:
+      213: 459593900657572301
+    second: Dialog Box_25
+  - first:
+      213: -5203390084627870518
+    second: Dialog Box_26
+  - first:
+      213: -7359241081094186100
+    second: Dialog Box_27
+  - first:
+      213: 8784669099974707180
+    second: Dialog Box_28
+  - first:
+      213: -2870847680900771013
+    second: Dialog Box_29
+  - first:
+      213: 7142615354940353552
+    second: Dialog Box_30
+  - first:
+      213: 2842998717938316594
+    second: Dialog Box_31
+  - first:
+      213: -5548875419119129749
+    second: Dialog Box_32
+  - first:
+      213: 2212708300011698736
+    second: Dialog Box_33
+  - first:
+      213: 703494799087839431
+    second: Dialog Box_34
+  - first:
+      213: -7689704840760744209
+    second: Dialog Box_35
+  - first:
+      213: 4741244001534397883
+    second: Dialog Box_36
+  - first:
+      213: -6356417259437654874
+    second: Dialog Box_37
+  - first:
+      213: 5208499304567035903
+    second: Dialog Box_38
+  - first:
+      213: -5943439533867873905
+    second: Dialog Box_39
+  - first:
+      213: -3559843617827395138
+    second: Dialog Box_40
+  - first:
+      213: -2998793792304862063
+    second: Dialog Box_41
+  - first:
+      213: -1557935514274563801
+    second: Dialog Box_42
+  - first:
+      213: 7804493533913738819
+    second: Dialog Box_43
+  - first:
+      213: -3296652253007327066
+    second: Dialog Box_44
+  - first:
+      213: 6506239963012176237
+    second: Dialog Box_45
+  - first:
+      213: -4655681510424552295
+    second: Dialog Box_46
+  - first:
+      213: 5606714457399245045
+    second: Dialog Box_47
+  - first:
+      213: 2560064591099559128
+    second: Dialog Box_48
+  - first:
+      213: -8013406138802655357
+    second: Dialog Box_49
+  - first:
+      213: 2688053242471805949
+    second: Dialog Box_50
+  - first:
+      213: -8583187373220554526
+    second: Dialog Box_51
+  - first:
+      213: 6950916209973762321
+    second: Dialog Box_52
+  - first:
+      213: -6983557806825766779
+    second: Dialog Box_53
+  - first:
+      213: 463397687577246180
+    second: Dialog Box_54
+  - first:
+      213: 3620200645733227393
+    second: Dialog Box_55
+  - first:
+      213: -7547282924714464583
+    second: Dialog Box_56
+  - first:
+      213: -6141294563473817566
+    second: Dialog Box_57
+  - first:
+      213: -2745668188774827490
+    second: Dialog Box_58
+  - first:
+      213: -7073212539136815369
+    second: Dialog Box_59
+  - first:
+      213: 7425847040226265664
+    second: Dialog Box_60
+  - first:
+      213: 3113968112631101113
+    second: Dialog Box_61
+  - first:
+      213: 5260497270980466327
+    second: Dialog Box_62
+  - first:
+      213: 5414381001807885835
+    second: Dialog Box_63
+  - first:
+      213: -7203429379228840254
+    second: Dialog Box_64
+  - first:
+      213: -280855034545963474
+    second: Dialog Box_65
+  - first:
+      213: -7423378085124038637
+    second: Dialog Box_66
+  - first:
+      213: -8282484374125344413
+    second: Dialog Box_67
+  - first:
+      213: -1500743463894370919
+    second: Dialog Box_68
+  - first:
+      213: -2393140657207232149
+    second: Dialog Box_69
+  - first:
+      213: 5286315466147008489
+    second: Dialog Box_70
+  - first:
+      213: -5296667154895020073
+    second: Dialog Box_71
+  - first:
+      213: 3732301281287087030
+    second: Dialog Box_72
+  - first:
+      213: 4410624422947515747
+    second: Dialog Box_73
+  - first:
+      213: 3030041934058239
+    second: Dialog Box_74
+  - first:
+      213: -3846923234293104582
+    second: Dialog Box_75
+  - first:
+      213: -2029916922300493109
+    second: Dialog Box_76
+  - first:
+      213: -5131033595072488315
+    second: Dialog Box_77
+  - first:
+      213: -6822569971622351632
+    second: Dialog Box_78
+  - first:
+      213: -5419211502620306552
+    second: Dialog Box_79
+  - first:
+      213: -5627007247709722467
+    second: Dialog Box_80
+  - first:
+      213: -7787472730081431090
+    second: Dialog Box_81
+  - first:
+      213: 8774042864293013045
+    second: Dialog Box_82
+  - first:
+      213: -2204152000846974817
+    second: Dialog Box_83
+  - first:
+      213: 1414766980380901350
+    second: Dialog Box_84
+  - first:
+      213: 4412532809845443923
+    second: Dialog Box_85
+  - first:
+      213: -8936171019632920840
+    second: Dialog Box_86
+  - first:
+      213: 4253542919464436083
+    second: Dialog Box_87
+  - first:
+      213: 4669895921855907383
+    second: Dialog Box_88
+  - first:
+      213: -1502463276929984562
+    second: Dialog Box_89
+  - first:
+      213: 1028807031865278466
+    second: Dialog Box_90
+  - first:
+      213: 544510720712360094
+    second: Dialog Box_91
+  - first:
+      213: -4072483656149471052
+    second: Dialog Box_92
+  - first:
+      213: 6003947991872513884
+    second: Dialog Box_93
+  - first:
+      213: -7085757737294415613
+    second: Dialog Box_94
+  - first:
+      213: 5422929335249382220
+    second: Dialog Box_95
+  - first:
+      213: 6953900311631065088
+    second: Dialog Box_96
+  - first:
+      213: -9027131209943759668
+    second: Dialog Box_97
+  - first:
+      213: -7348395285977195252
+    second: Dialog Box_98
+  - first:
+      213: 6558698980418963933
+    second: Dialog Box_99
+  - first:
+      213: -2700928293708999053
+    second: Dialog Box_100
+  - first:
+      213: -2170589896946056937
+    second: Dialog Box_101
+  - first:
+      213: 8931303513063409630
+    second: Dialog Box_102
+  - first:
+      213: -7831329833003883502
+    second: Dialog Box_103
+  - first:
+      213: -1293215300139211595
+    second: Dialog Box_104
+  - first:
+      213: 9134301771720977473
+    second: Dialog Box_105
+  - first:
+      213: -2994302578691213892
+    second: Dialog Box_106
+  - first:
+      213: -7347528215511753952
+    second: Dialog Box_107
+  - first:
+      213: -8916810411555466708
+    second: Dialog Box_108
+  - first:
+      213: -8063502071090375811
+    second: Dialog Box_109
+  - first:
+      213: 8366908324361410988
+    second: Dialog Box_110
+  - first:
+      213: 1673525127809879827
+    second: Dialog Box_111
+  - first:
+      213: -3527133518073084083
+    second: Dialog Box_112
+  - first:
+      213: 6911537445743315190
+    second: Dialog Box_113
+  - first:
+      213: 1439720274077026631
+    second: Dialog Box_114
+  - first:
+      213: -1780822418449453151
+    second: Dialog Box_115
+  - first:
+      213: 3403784275074612581
+    second: Dialog Box_116
+  - first:
+      213: 2599557948200703433
+    second: Dialog Box_117
+  - first:
+      213: 7246065096780628934
+    second: Dialog Box_118
+  - first:
+      213: 8055815278190033763
+    second: Dialog Box_119
+  - first:
+      213: -2539684499851563844
+    second: Dialog Box_120
+  - first:
+      213: -103832678387302807
+    second: Dialog Box_121
+  - first:
+      213: 7594552078355301232
+    second: Dialog Box_122
+  - first:
+      213: 9217434082752574665
+    second: Dialog Box_123
+  - first:
+      213: 1675503022742948151
+    second: Dialog Box_124
+  - first:
+      213: -2950226911937517976
+    second: Dialog Box_125
+  - first:
+      213: 8798870815687608803
+    second: Dialog Box_126
+  - first:
+      213: 5854395375943017068
+    second: Dialog Box_127
+  - first:
+      213: 1871645164520314501
+    second: Dialog Box_128
+  - first:
+      213: 1675854404595808935
+    second: Dialog Box_129
+  - first:
+      213: -4715258344463412052
+    second: Dialog Box_130
+  - first:
+      213: -4593037459606437015
+    second: Dialog Box_131
+  - first:
+      213: -1504941942627532011
+    second: Dialog Box_132
+  - first:
+      213: 6133337204308635987
+    second: Dialog Box_133
+  - first:
+      213: -4765021290706794382
+    second: Dialog Box_134
+  - first:
+      213: 6986285191549981133
+    second: Dialog Box_135
+  - first:
+      213: -4505038206884224107
+    second: Dialog Box_136
+  - first:
+      213: 5722298252084154883
+    second: Dialog Box_137
+  - first:
+      213: -6248101288123654044
+    second: Dialog Box_138
+  - first:
+      213: 651497926449928831
+    second: Dialog Box_139
+  - first:
+      213: 4648133499862576932
+    second: Dialog Box_140
+  - first:
+      213: -4239681792225245441
+    second: Dialog Box_141
+  - first:
+      213: 2349411917237821663
+    second: Dialog Box_142
+  - first:
+      213: -4041736025096919642
+    second: Dialog Box_143
+  - first:
+      213: -573656112592409171
+    second: Dialog Box_144
+  - first:
+      213: 872138967675093567
+    second: Dialog Box_145
+  - first:
+      213: -4441712589376071957
+    second: Dialog Box_146
+  - first:
+      213: -139406731882696462
+    second: Dialog Box_147
+  - first:
+      213: 3057356758047017838
+    second: Dialog Box_148
+  - first:
+      213: -7116362114715063827
+    second: Dialog Box_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialog Box_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 392
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 19, z: 17, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a411a47c0e57d50800000000000000
+      internalID: 6734535964348205699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
