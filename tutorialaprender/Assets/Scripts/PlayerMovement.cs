@@ -6,6 +6,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed;
 
+    private float fixedSpeed;
+
     private Rigidbody2D myRigidbody;
 
     private Vector3 change;
@@ -25,8 +27,17 @@ public class PlayerMovement : MonoBehaviour
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
-        Debug.Log(change);
-        UpdateAnimationAndMove();
+        //Debug.Log(change);
+        if (Input.GetButtonDown("attack"))
+        {
+            fixedSpeed = speed;
+            speed = 0;
+            StartCoroutine(attackCo());
+            speed = fixedSpeed;
+        }else 
+            {
+                UpdateAnimationAndMove();
+            }
     }
 
     void UpdateAnimationAndMove()
@@ -43,7 +54,13 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("moving", false);
         }
     }
-
+    private IEnumerator attackCo()
+    {
+        animator.SetBool("attacking" , true);
+        yield return null;
+        animator.SetBool("attacking" , false);
+        yield return new WaitForSeconds(.3f);
+    }
 
     void MoveCharacter()
     {
