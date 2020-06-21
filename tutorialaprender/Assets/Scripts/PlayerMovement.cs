@@ -30,10 +30,8 @@ public class PlayerMovement : MonoBehaviour
         //Debug.Log(change);
         if (Input.GetButtonDown("attack"))
         {
-            fixedSpeed = speed;
-            speed = 0;
             StartCoroutine(attackCo());
-            speed = fixedSpeed;
+            
         }else 
             {
                 UpdateAnimationAndMove();
@@ -42,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
     void UpdateAnimationAndMove()
     {
-        if (change != Vector3.zero)
+        if (change != Vector3.zero && !animator.GetBool("attacking"))
         {
             MoveCharacter();
             animator.SetFloat("moveX", change.x);
@@ -57,7 +55,7 @@ public class PlayerMovement : MonoBehaviour
     private IEnumerator attackCo()
     {
         animator.SetBool("attacking" , true);
-        yield return null;
+        yield return null;      
         animator.SetBool("attacking" , false);
         yield return new WaitForSeconds(.3f);
     }
